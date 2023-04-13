@@ -1,0 +1,9 @@
+name: Octopus
+version: 1.0.0
+main: octova.Octopus
+api-version: 1.19
+
+commands:
+  snake:
+    description: Join to the snake game
+    usage: /snake
