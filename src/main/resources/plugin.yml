@@ -7,3 +7,7 @@ commands:
   snake:
     description: Join to the snake game
     usage: /snake
+    
+  snakeboard:
+    description: Join to the snake game
+    usage: /snakeboard <size> <x> <y> <z>

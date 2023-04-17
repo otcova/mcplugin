@@ -1,15 +1,12 @@
 package octova;
 
-import octova.commands.Snake;
+import octova.Addons.Snake.SnakeGame;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Octopus extends JavaPlugin {
+    
     @Override
     public void onEnable() {
-        getCommand("snake").setExecutor(new Snake());
-    }
-
-    @Override
-    public void onDisable() {
+        new SnakeGame(this);
     }
 }
