@@ -2,6 +2,7 @@ C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\ArgParser\
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\Msg.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Food\FoodType.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\SnakeGame.java
+C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\SpeedGame\commands\SpeedCommand.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Food\GoldenApple.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\Line.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\commands\SnakeCommand.java
@@ -9,6 +10,7 @@ C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Boa
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\commands\SnakeBoardCommand.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\ItemFrame.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Food\EnchantedGoldenApple.java
+C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\SpeedGame\SpeedGame.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\ArgParser\Argument.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Octopus.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\ArgParser\ArgBlockLocation.java
@@ -16,6 +18,7 @@ C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Foo
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\SnakeTail.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\SnakePlayer.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\ArgParser\ArgInt.java
+C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\SpeedGame\SpeedPlayer.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\Addons\Snake\Food\Apple.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\TabComplete.java
 C:\Users\Octova\Desktop\pluginTest\Octopus\src\main\java\octova\utils\VecBlock.java

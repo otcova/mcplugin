@@ -11,3 +11,7 @@ commands:
   snakeboard:
     description: Join to the snake game
     usage: /snakeboard <size> <x> <y> <z>
+
+  speed:
+    description: Join to the incremental speed game
+    usage: /speed
